@@ -1,4 +1,6 @@
-# debian-git
-A minimal docker container with debian and git.
+# docker-debian-git-w-git-ftp
+A minimal docker container with debian, git, and
+git-ftp for automated deploy inside bitbucket-pipelines.
 
-[![docker](http://dockeri.co/image/samueldebruyn/debian-git "docker")](https://registry.hub.docker.com/u/samueldebruyn/debian-git/)
+Secure FTP is required, though can be changed to insecure ftp by
+uncommenting one line in Dockerfile.
