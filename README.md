@@ -13,3 +13,5 @@ Modification:
  * Added git-ftp
  * Added and commented-out secure ftp (from another fork)
  * Additional Documenation
+
+ [![docker](http://dockeri.co/image/bhartlbgrt/docker-debian-git-w-git-ftp "docker")](https://registry.hub.docker.com/u/bhartlbgrt/docker-debian-git-w-git-ftp/)
