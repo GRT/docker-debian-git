@@ -4,3 +4,12 @@ git-ftp for automated deploy inside bitbucket-pipelines.
 
 Secure FTP is required, though can be changed to insecure ftp by
 uncommenting one line in Dockerfile.
+
+
+# Source
+Original source: https://github.com/SamuelDebruyn/docker-debian-git
+
+Modification:
+ * Added git-ftp
+ * Added and commented-out secure ftp (from another fork)
+ * Additional Documenation
